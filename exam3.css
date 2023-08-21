@@ -1,0 +1,209 @@
+body{
+background-color:rgb(255, 255, 255) ;
+}
+.box{
+
+height: 500px;
+    background-image: url(https://i.pinimg.com/originals/61/0b/54/610b54c5b8e578dd9e4ccd7259e9d93f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.aa{
+    color: rgb(252, 252, 252);
+}
+button{
+  width: 200px;
+  height: 50px; 
+    color: rgb(17, 4, 4) ;
+    border-radius: 10px;
+    background-color: rgb(247, 176, 176);
+
+
+}
+.a{
+    text-align: center;
+    padding: 20px;
+}
+i{
+font-size: 30px;
+color: rgb(255, 255, 255);
+padding-left:20px ;
+}
+.portfolio{
+    display:flex ;
+align-items: center;
+justify-content: space-between;
+padding-top: 30px;
+padding-left: 23%;
+padding-right: 8%;
+   
+}
+.portfolio ul li{
+list-style-type: none;
+display: inline-block;
+padding: 10px 25px;
+}
+.portfolio ul li a{
+color: rgb(219, 33, 144);
+text-decoration: none;
+font-weight: bold;
+text-transform: capitalize;
+
+}
+.boxx1{
+   box-shadow: 0px 0px 5px;
+   
+}
+  .b{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+h2{
+    color:rgb(202, 41, 94) ;
+}
+.box1{
+    width: 200px;
+    height: 250px;
+    box-shadow:5px 5px 5px ;
+    margin: 25px;
+}
+
+.box2{
+    width: 200px;
+    height: 250px;
+    box-shadow:5px 5px 5px ;
+    margin: 25px;
+}
+
+.box3{
+    width: 200px;
+    height: 250px;
+    box-shadow:5px 5px 5px ;
+    margin: 25px;
+}
+
+.box4{
+    width: 200px;
+    height: 250px;
+    box-shadow:5px 5px 5px ;
+    margin: 25px;
+}
+.box5{
+    width: 200px;
+    height: 250px;
+ box-shadow: 5px 5px 5px;
+    margin: 25px;
+}
+.box6{
+    width: 200px;
+    height: 250px;
+    box-shadow:5px 5px 5px ;
+    margin: 25px;
+   
+}
+.box7{
+    width: 200px;
+    height: 250px;
+    box-shadow:5px 5px 5px ;
+     margin: 25px;
+
+   
+}
+
+.ab{
+   
+    padding: 10px;
+    display: flex;
+  flex-wrap: wrap;
+}
+.div{
+    text-align: center;
+   
+ 
+}
+nav{
+    color: palevioletred;
+}
+.box8{
+    background-color: rgb(238, 181, 228);
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+
+    margin: 25px;
+ 
+}
+
+.box9{
+    background-color: rgb(238, 181, 228);
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+  
+    margin: 25px;
+ 
+}
+.bts{
+display: flex;
+}
+.dogg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.dog{
+height: 300px;
+width: 200px;
+background-color: pink;
+margin: 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.bor{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.dog1{
+    height: 300px;
+    width: 200px;
+    background-color: pink;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+    nav{
+        color: blueviolet;
+    }
+    .bo{
+
+        height: 500px;
+            background-image: url(https://i.pinimg.com/originals/61/0b/54/610b54c5b8e578dd9e4ccd7259e9d93f.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+        .boo{
+            text-align: center;
+            padding-top: 250px;
+            text-shadow: 5px 5px 5px;
+            
+            color:azure ;
+        }
+
+    
+   
+  
+
+
+
+
+
+

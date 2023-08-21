@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Baxodiova Shaxinabonu";
+    
+}
+.hero{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../img/https://www.google.co.uz/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dblack%2Bcolor&psig=AOvVaw2Z8grSVZDbr5iXRpxvdkz7&ust=1691305754465000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCODGjor7xIADFQAAAAAdAAAAABAD);
+background-size: cover;
+background-position: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.logo{
+ color: aliceblue;
+ font-size: 28px;   
+}
+span{
+    color: #ea1538;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+
+}
+nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: #ea1538;
+    transition: .3s;
+}
+button{
+    border: none;
+    background: #ea1538;
+    padding: 12px 30px;
+    border-radius: 30px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 15px;
+    transition: .4s;
+}
+button{
+    transform: scale(1.3);
+    cursor: pointer;
+}
